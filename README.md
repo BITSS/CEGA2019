@@ -1,5 +1,6 @@
 # CEGA Transparency short course 2019
-Repository for CEGA
+Repository for CEGA's Trainning on Research Transparency. 
+Dictated by Fernando Hoces de la Guardia
 
 
 
@@ -14,3 +15,6 @@ Before this meeting please sure sure you have installed the following software:
  -  RStudio  (update/reinstall to latest version)
  -  Github desktop app
  -  Atom (text editor)
+
+
+Useful resource (self promoting): [IDB Open Science Cheatsheet](http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-383)
