@@ -1,5 +1,5 @@
 # CEGA Transparency short course 2019
-Repository for CEGA's Trainning on Research Transparency. 
+Repository for CEGA's Trainning on Research Transparency.   
 Dictated by Fernando Hoces de la Guardia
 
 
