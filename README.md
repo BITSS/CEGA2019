@@ -10,11 +10,11 @@ Dictated by Fernando Hoces de la Guardia
 
 
 
-Before this meeting please sure sure you have installed the following software: 
+Before this meeting please sure sure you have installed the following software:
  -  R (update/reinstall to latest version)
  -  RStudio  (update/reinstall to latest version)
  -  Github desktop app
- -  Atom (text editor)
+ -  Atom (text editor) test for conflict in master
 
 
 Useful resource (self promoting): [IDB Open Science Cheatsheet](http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-383)
