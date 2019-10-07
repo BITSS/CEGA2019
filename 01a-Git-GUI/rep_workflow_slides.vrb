@@ -1,19 +1,14 @@
-\frametitle{Demo \#3: Look inside a half-way project (and collaborate!)}
-\protect\hypertarget{demo-3-look-inside-a-half-way-project-and-collaborate-1}{}
+\frametitle{Strategy 2:}
+\protect\hypertarget{strategy-2}{}
 
-1- Find the following repo: \texttt{github.com/fhoces/nber\_trends}.\\
-2- Fork it and clone it.\\
-3- Open it in your computer: \texttt{nber\_trends.Rproj} (needs
-RStudio), look around and excecute up to the section
-(\texttt{Verifying\ gender\ {[}WORKSHOP\ SECTION{]}}).\\
-4- Generate random number like this:
-\texttt{num1\ =\ sample(20000,\ 1)}.\\
-5- Look the name and (imputed) gender of the author in row
-\texttt{num1}. This is done by typing:\\
-\texttt{temp3{[}num1,c("name",\ "gender"){]}} in the console.\\
-6- Create the following line at the end of the script:
-\texttt{verification\ \textless{}-\ cbind(temp3{[}num1,c("name",\ "gender"){]},\ "rownum"\ =\ num1,\ "correct"\ =\ 1)}.\\
-7- Save, commit, push and create a pull request.\\
-8- Feel free to look around create more contributions if you like. Happy
-to co-author.
+1 - Name your file \texttt{filename} (ideally \texttt{01\_filename})\\
+2 - Take a snapshot of your work every time you complete relevant change
+(day, hour or minutes).\\
+3 - Update your entire working folder to the cloud.
+
+\textbf{Pros:} Error proof, seamless documentation, one file per
+document, track differences across all versions, meant to work with the
+cloud.
+
+\textbf{Cons:} Harder adoption.
 
